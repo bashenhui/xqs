@@ -8,3 +8,4 @@ void main(int argc,char *argv[])
 		printf("%d\n",2*x[i]);
 	} 
 }
+fix-q
