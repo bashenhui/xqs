@@ -5,6 +5,7 @@ void main(int argc,char *argv[])
 	int i;
 	for ( i= 0; i < 5; i++)
 	{
-		printf("%d\n",2*x[i]);
+		printf("%d\n",2*x[i],"www");
 	} 
 }
+fix-q
